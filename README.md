@@ -13,3 +13,5 @@ JavaScript (ES6)
 HTML
 CSS
 Browser Console / VS Code
+## Author
+Priyanshu Jha
